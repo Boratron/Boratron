@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boratron</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratron" alt="boratron" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Designing REST APIs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
