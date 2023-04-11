@@ -179,7 +179,7 @@
 
 <p>
 	<img
-		align="left"
+		align="center"
 		src="https://github-readme-streak-stats.herokuapp.com/?user=boratron&theme=dark"
 		alt="boratron"
 	/>
@@ -187,7 +187,7 @@
 
 <p>
 	&nbsp;<img
-		align="left"
+		align="center"
 		src="https://github-readme-stats.vercel.app/api?username=boratron&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en"
 		alt="boratron"
 	/>
