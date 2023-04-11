@@ -187,7 +187,7 @@
 
 <p>
 	&nbsp;<img
-		align="center"
+		align="left"
 		src="https://github-readme-stats.vercel.app/api?username=boratron&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en"
 		alt="boratron"
 	/>
