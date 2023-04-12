@@ -7,7 +7,7 @@
 	/></a>
 </p>
 
-- 🌱 I’m currently learning **React** and **Designing REST APIs**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
