@@ -1,6 +1,10 @@
 Hi 👋 My name is Boratron
 =========================
 
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratron&theme=discord&margin-w=10&margin-h=10&no-bg=true" alt="boratron" /></a> 
+</p>
+
 * 🌱 I’m currently learning **React**
 
 ### Languages and Tools
@@ -22,6 +26,7 @@ Hi 👋 My name is Boratron
 <img alt="Figma" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img alt="Arduino" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img alt="Codeigniter" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+<img alt="Postman" width="36" height="36" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 </p>
 
 ### My GitHub Stats
