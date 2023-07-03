@@ -2,10 +2,8 @@ Hi 👋 My name is Boratron
 =========================
 
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratron&theme=discord&margin-w=10&margin-h=10&no-bg=true" alt="boratron" /></a> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratron&theme=discord&margin-w=10&margin-h=10" alt="boratron" /></a> 
 </p>
-
-* 🌱 I’m currently learning **React**
 
 ### Languages and Tools
 
@@ -32,7 +30,5 @@ Hi 👋 My name is Boratron
 ### My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=boratron&show_icons=true&theme=transparent&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true" alt="boratron" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boratron&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="boratron" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boratron&layout=donut&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true" alt="boratron" />
