@@ -21,7 +21,6 @@ Hi 👋 My name is Boratron
 <img alt="JQuery" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 <img alt="NodeJS" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="MySQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Figma" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img alt="Arduino" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img alt="Codeigniter" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
 <img alt="Postman" width="36" height="36" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
